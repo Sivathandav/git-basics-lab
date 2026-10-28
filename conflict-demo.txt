@@ -1,1 +1,1 @@
-Alert status: offline
+Alert status: delayed; offline alert enabled.
